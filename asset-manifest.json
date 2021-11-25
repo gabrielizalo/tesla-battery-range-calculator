@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/tesla-battery-range-calculator/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/tesla-battery-range-calculator/static/js/main.1f8eca15.chunk.js",
-    "main.js.map": "/tesla-battery-range-calculator/static/js/main.1f8eca15.chunk.js.map",
+    "main.css": "/tesla-battery-range-calculator/static/css/main.fe785e6a.chunk.css",
+    "main.js": "/tesla-battery-range-calculator/static/js/main.1a6bd0be.chunk.js",
+    "main.js.map": "/tesla-battery-range-calculator/static/js/main.1a6bd0be.chunk.js.map",
     "runtime-main.js": "/tesla-battery-range-calculator/static/js/runtime-main.f56e1f86.js",
     "runtime-main.js.map": "/tesla-battery-range-calculator/static/js/runtime-main.f56e1f86.js.map",
-    "static/js/2.573cd960.chunk.js": "/tesla-battery-range-calculator/static/js/2.573cd960.chunk.js",
-    "static/js/2.573cd960.chunk.js.map": "/tesla-battery-range-calculator/static/js/2.573cd960.chunk.js.map",
+    "static/js/2.17d48a61.chunk.js": "/tesla-battery-range-calculator/static/js/2.17d48a61.chunk.js",
+    "static/js/2.17d48a61.chunk.js.map": "/tesla-battery-range-calculator/static/js/2.17d48a61.chunk.js.map",
     "index.html": "/tesla-battery-range-calculator/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/tesla-battery-range-calculator/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.573cd960.chunk.js.LICENSE.txt": "/tesla-battery-range-calculator/static/js/2.573cd960.chunk.js.LICENSE.txt"
+    "static/css/main.fe785e6a.chunk.css.map": "/tesla-battery-range-calculator/static/css/main.fe785e6a.chunk.css.map",
+    "static/js/2.17d48a61.chunk.js.LICENSE.txt": "/tesla-battery-range-calculator/static/js/2.17d48a61.chunk.js.LICENSE.txt",
+    "static/media/logo.233e4b8c.svg": "/tesla-battery-range-calculator/static/media/logo.233e4b8c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f56e1f86.js",
-    "static/js/2.573cd960.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.1f8eca15.chunk.js"
+    "static/js/2.17d48a61.chunk.js",
+    "static/css/main.fe785e6a.chunk.css",
+    "static/js/main.1a6bd0be.chunk.js"
   ]
 }
