@@ -2,6 +2,7 @@
 
 Project: [Building Tesla’s Battery Range Calculator with React &amp; Redux ](https://www.educative.io/courses/building-teslas-battery-range-calculator-with-react-and-redux) - Course by Educative.io
 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
