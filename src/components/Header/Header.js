@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./Header.css"
-import logoUrl from "../asstets/logo.svg";
+import logoUrl from "../../asstets/logo.svg";
 
 function Header() {
   return (
